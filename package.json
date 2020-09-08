@@ -1,0 +1,16 @@
+{
+  "name": "webassembly",
+  "version": "1.0.0",
+  "description": "* Webassembly can be compiled from a number of languages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kartik chauhan <chauhan.kartik25@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
